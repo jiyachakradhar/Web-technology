@@ -1,0 +1,21 @@
+h1{
+    background-color:blanchedalmond;
+    color:aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:89px;
+}
+h2{
+    border: 43px;
+    border-radius: 45px;
+    text-decoration:wavy;
+}
+li{
+    list-style:none;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     font-size: 67px;
+     font-style: italic;
+     text-align: center;
+     color:blue;
+     background-color: aquamarine;
+
+}
